@@ -5,7 +5,7 @@
 - Estaciones y Sucursales
    - [Locales](Estaciones_y_Sucursales/Locales.md)
 - Instalacion NextFuel Administrativo
-  - Instalar Radmin VPN
+  - [Instalar Radmin VPN](Instalación_Nextfuel_Administrativo/Instalar_Radmin_VPN.md)
   - Instalar Nextfuel Administrativo (Archivo.exe)
   - Generar Licencias para Administrativo
 - Ticketera o Terminal
