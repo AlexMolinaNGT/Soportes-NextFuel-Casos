@@ -9,7 +9,7 @@
   - [Instalar Nextfuel Administrativo (Archivo.exe)](Instalación_Nextfuel_Administrativo/Instalar_Nextfuel_Administrativo.md)
      - Generar Licencias para Administrativo
 - Ticketera o Terminal
-  - Errores Comunes
+  - [Errores Comunes](Ticketera_o_Terminal/Errores_Comunes.md)
      - Ticketera Saca Papel en Blanco (Sin Texto)
      - Ticketera No Imprime
      - Conectar la Terminal a la Red
