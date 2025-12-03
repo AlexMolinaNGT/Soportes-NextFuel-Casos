@@ -3,11 +3,10 @@
 ---
 
 1. Base de datos:
-
-2. Tener instalado Radmin Vpn:
-
-(Insertar Imagen)
-
+2. Radmin Vpn
+3. LogMeIn
+4. Anydesk
+---
 ## LogMeIn
 
 LogMeIn (Gasolineria Las Palmas)
