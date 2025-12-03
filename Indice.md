@@ -5,8 +5,7 @@
       - LogMeln
       - Anydesk
 - Estaciones y Sucursales
-   - Locales 1
-   - Locales 2
+   - Locales
 - Instalacion NextFuel Administrativo
   - Instalar Radmin VPN
   - Instalar Nextfuel Administrativo (Archivo.exe)
