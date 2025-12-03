@@ -16,7 +16,7 @@
      - No tiene Acceso a la Terminal
      - Pasos de Instalacion para la Nueva Version
 - NextFuel Bombas
-  - Falla en Dispensario o Bombas en Rojo
+  - [Falla en Dispensario o Bombas en Rojo](NextFuel_Bombas/Falla_en_Dispensario_o_Bombas_en_Rojo.md)
 - NextFuel Administrativo
   - Existencia de Compras sin Registrar
   - Union de Entradas
