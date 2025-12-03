@@ -7,7 +7,7 @@
 - Instalacion NextFuel Administrativo
   - [Instalar Radmin VPN](Instalación_Nextfuel_Administrativo/Instalar_Radmin_VPN.md)
   - Instalar Nextfuel Administrativo (Archivo.exe)
-  - Generar Licencias para Administrativo
+     - Generar Licencias para Administrativo
 - Ticketera o Terminal
   - Ticketera Saca Papel en Blanco (Sin Texto)
   - Ticketera No Imprime
