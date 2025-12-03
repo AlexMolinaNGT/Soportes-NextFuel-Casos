@@ -17,6 +17,9 @@
      - Pasos de Instalacion para la Nueva Version
 - NextFuel Bombas
   - [Falla en Dispensario o Bombas en Rojo](NextFuel_Bombas/Falla_en_Dispensario_o_Bombas_en_Rojo.md)
+- NextFuel Operativo
+  -Registro de entrada
+  -División de aumento en descarga
 - NextFuel Administrativo
   - Existencia de Compras sin Registrar
   - Union de Entradas
