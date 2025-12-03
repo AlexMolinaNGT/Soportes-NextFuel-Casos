@@ -18,7 +18,7 @@
 - NextFuel Bombas
   - [Falla en Dispensario o Bombas en Rojo](NextFuel_Bombas/Falla_en_Dispensario_o_Bombas_en_Rojo.md)
 - NextFuel Operativo
-  - Registro de entrada
+  - [Registro de entrada](NextFuel_Operativo/Registro_de_entrada.md)
   - División de aumento en descarga
 - NextFuel Administrativo
   - Existencia de Compras sin Registrar
