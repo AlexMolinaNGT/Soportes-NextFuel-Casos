@@ -1,0 +1,141 @@
+# Indice
+
+- Acceso a Estaciones en Productivo
+   - Recursos y Programas
+   - LogMeln
+   - Anydesk
+- Estaciones y Sucursales
+   - Locales 1
+   - Locales 2
+- Instalacion NextFuel Administrativo
+  - Instalar Radmin VPN
+  - Instalar Nextfuel Administrativo (Archivo.exe)
+  - Generar Licencias para Administrativo
+- Ticketera o Terminal
+  - Ticketera Saca Papel en Blanco (Sin Texto)
+  - Ticketera No Imprime
+  - Conectar la Terminal a la Red
+  - No tiene Acceso a la Terminal
+    - Pasos de Instalacion para la Nueva Version
+- NextFuel Bombas
+  - Falla en Dispensario o Bombas en Rojo
+- NextFuel Administrativo
+  - Existencia de Compras sin Registrar
+  - Union de Entradas
+  - Diferencias Entre Venta Total y Monto de la Estacion
+  - Entradas Desfasadas
+  - Ajuste de Entrada
+  - Correcion de Mermas
+  - Cancelacion de Factura que esta en el Portal
+    - Solicion: Importar la Factura Cancelada al Administrativo
+  - Importar la Factura
+  - Liberar Venta (Ticket Comprobado Fiscalmente ante el SAT)
+    - Liberar Ticket
+  - Ventas Perdidas
+    - Insertar Venta
+  - Dispersar Ventas
+    - Caso 1
+    - Caso 2
+  - Mermas
+  - Diferencia de Lecturas
+  - Factura Cancelada aun aparece Vigente en Portal Palmas
+  - Alta Proveedores
+  - Horarios Turnos
+  - Inventario
+  - Nueva Compra de Hidrocarburos
+  - Relacionar una Entrada con una Compra
+  - Facturacion
+  - Corte de Turno, Cierre de Turno o Captura de Ingresos
+  - Deposito a Bancos
+  - Visualizar el Corte de Turno
+  - Pagos o Abonos
+  - Controles Volumetricos
+  - Nuevo Cliente
+  - Agregar Vehiculos
+  - Asociar la Venta
+  - Facturar Transacciones de Credito o Debito
+  - Agregar Anticipo
+- Facturas
+  - Factura en Espera de Cancelacion
+  - Ruta Factura / Carpeta Compartida
+  - Descarga de XML y PDF
+    - En caso de que el Campo XML sea Null
+    - En caso de que el Campo XML No sea Null
+- Volumetricos
+  - Recepciones
+  - Existencias
+  - Entregas
+- Portal de Pemex
+- NextFuel Tanques
+  - Acceso
+  - Claves de Estaciones
+  - Estaciones
+  - Encendido de Tanques
+  - Instalar NextFuelTanques
+- NERP
+  - Acceso
+  - Habilitar Permisos
+  - Generacion de Polizas
+  - Agregar Producto en NERP
+  - Eliminar Ventas por Turno
+  - Caja Chica
+  - Cancelacion de Caja Chica
+  - Cancelacion de Cuenta por Pagar CAJA CHICA
+  - Alta de Usuarios NERP
+- Monedero
+  - Cambiar Fecha
+  - Generar Codigo de BARRAS de Cliente
+  - Generar Codigo por Estacion para Libro
+  - Preset Duplicado
+    - Paso 1: Revisar que la transacción está activa y obtener el nombre del cliente
+    - Paso 2: Cancelar la transacción
+    - Paso 3: Respuesta sugerida
+  - Preset Ticket
+  - Producto Desconocido
+  - Eliminar Transaccion Duplicada
+  - Cambiar Fecha de Pago
+- Portal Facturacion las Palmas
+  - Descarga de Archivos de Facturacion
+- Portal Facturacion NEXUM
+  - Instalacion System Tanques
+- Validador
+  - La Propiedas BitacoraMensual NO Tiene Elementos
+  - Crossover
+    - Registaro de Niveles (NextFuel Administrativo / Volumetricos SAT / Niveles Tanque / Validador)
+  - Sistemas Externos
+- Error en 127.0.0.1/productos
+- Instalacion de Sistemas (Servidores Nuevos)
+  - Workbench
+    - Importar la Base de Datos (BD)
+    - Sentencias a Ejecutar despues de Instalar la BD
+    - Ejecutar los script que puedan estar en Google Drive
+  - Instalar Administrativo
+  - Instalar Bombas
+  - Instalar Operativo
+  - Radmin
+- Manual de Usuario
+  - Nueva compra de hidrocarburos o Entrada
+  - Relacionar una entrada con una compra
+  - Facturación a clientes en general
+  - Corte de turno, Cierre de turno o Capturar ingresos
+  - Depósitos a bancos
+  - Visualizar el corte de turno
+  - Pagos o Abonos
+  - Controles Volumétricos
+  - Nuevo Cliente
+  - Agregar Vehiculos
+  - Asociar la venta
+  - Facturar transacciones de credito o debito
+  - Agregar anticipo
+- NERP
+  - Caja chica
+  - Autorizar gasto de caja chica
+  - Solicitar Reembolsos
+  - Requisiciones
+    - Recepción
+  - Cuenta por pagar
+  - Imprimir Cuenta por pagar
+  - Permisos que debe tener el perfil Cobranza en Administrativo.
+  - Sin poder asignar volumen a la segunda factura de una compra (entrada)
+- Energy Pay
+  - Registrar terminales en portal Energy Pay
