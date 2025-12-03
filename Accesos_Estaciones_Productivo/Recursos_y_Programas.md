@@ -2,11 +2,11 @@
 
 ---
 
-## Base de datos:
+1. Base de datos:
 
-### Tener instalado Radmin Vpn:
+2. Tener instalado Radmin Vpn:
 
-
+(Insertar Imagen)
 
 ## LogMeIn
 
