@@ -44,7 +44,7 @@
   - [Alta Proveedores](NextFuel_Administrativo/Alta_Proveedores.md)
   - [Horarios Turnos](NextFuel_Administrativo/Horarios_Turnos.md)
   - [Inventario](NextFuel_Administrativo/Inventario.md)
-  - Nueva Compra de Hidrocarburos
+  - [Nueva Compra de Hidrocarburos](NextFuel_Administrativo/Compra_de_Hidrocarburo.md)
   - Relacionar una Entrada con una Compra
   - Facturacion
   - Corte de Turno, Cierre de Turno o Captura de Ingresos
