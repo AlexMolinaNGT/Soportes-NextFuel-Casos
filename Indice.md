@@ -35,7 +35,7 @@
     - Liberar Ticket
   - [Ventas Perdidas](NextFuel_Administrativo/Ventas_Perdidas.md)
     - Insertar Venta
-  - Dispersar Ventas
+  - [Dispersar Ventas](NextFuel_Administrativo/Ventas_Perdidas.md)
     - Caso 1
     - Caso 2
   - Mermas
