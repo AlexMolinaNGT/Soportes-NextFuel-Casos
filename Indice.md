@@ -22,7 +22,7 @@
   - [División de aumento en descarga](NextFuel_Operativo/División_de_aumento_en_descarga.md)
 - NextFuel Administrativo
   - [Existencia de Compras sin Registrar](NextFuel_Administrativo/Existencia_de_Compras_sin_Registrar.md)
-  - Union de Entradas
+  - [Union de Entradas](NextFuel_Administrativo/Union_de_Entradas.md)
   - Diferencias Entre Venta Total y Monto de la Estacion
   - Entradas Desfasadas
   - Ajuste de Entrada
