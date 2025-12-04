@@ -27,7 +27,7 @@
      - Eliminado de Entradas
   - [Entradas Desfasadas](NextFuel_Administrativo/Entradas_Desfasadas.md)
   - [Ajuste de Entrada](NextFuel_Administrativo/Ajuste_de_Entrada.md)
-  - Correcion de Mermas
+  - [Correcion de Mermas](NextFuel_Administrativo/Correccion_de_mermas.md)
   - Cancelacion de Factura que esta en el Portal
     - Solicion: Importar la Factura Cancelada al Administrativo
   - Importar la Factura
