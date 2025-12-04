@@ -39,7 +39,7 @@
     - Caso 1
     - Caso 2
   - [Mermas](NextFuel_Administrativo/Mermas.md)
-  - Diferencia de Lecturas
+  - [Diferencia de Lecturas](NextFuel_Administrativo/Diferencia_de_Lecturas.md)
   - Factura Cancelada aun aparece Vigente en Portal Palmas
   - Alta Proveedores
   - Horarios Turnos
