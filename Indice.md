@@ -30,7 +30,7 @@
   - [Correcion de Mermas](NextFuel_Administrativo/Correccion_de_mermas.md)
   - [Cancelacion de Factura en el Portal](NextFuel_Administrativo/Cancelacion_de_Factura_en_el_Portal.md)
     - Solucion: Importar la Factura Cancelada al Administrativo
-  - Importar la Factura
+  - [Importar la Factura](NextFuel_Administrativo/Importar_la_Factura.md)
   - Liberar Venta (Ticket Comprobado Fiscalmente ante el SAT)
     - Liberar Ticket
   - Ventas Perdidas
