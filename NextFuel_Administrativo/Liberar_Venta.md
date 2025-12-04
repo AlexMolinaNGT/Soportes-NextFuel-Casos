@@ -57,5 +57,43 @@ INSERTAR IMAGEN
 
     Saludos.
 
+# Documentacion obsoleta, esto esposible que se pueda borrar
+
+```SQL
+Select * from ticket where id_ticket in (65687376);
+Select * from facturas where folio = '5c7a598d-3a6b-45fa-9d7a-ed88d899acd9';
+```
+
+INSERTAR IMAGEN 
+
+Importar Facturas desde el portal de facturación
+
+El cliente solicita cancelar factura en el portal de facturación pero el facturista no puede acceder al portal porque es privado para cada cliente. 
+La siguiente imagen es un ejemplo de factura donde se resaltan los datos que se ocuparan
+
+INSERTAR IMAGEN 
+
+Revisar que no exista la factura en el Admin tanto activas como en el listado de canceladas.
+
+INSERTAR IMAGEN 
+
+INSERTAR IMAGEN 
+
+Confirmamos que no existe en el listado de canceladas.
+Se tiene que importar al Administrativo Compras / Facturación
+
+Obtener el ticket de la venta en la misma factura en este ejemplo el ticket es 327377
+
+INSERTAR IMAGEN 
+
+y ejecutar esta función desde la inspección del Administrativo
+portalFacturacion.consultarVentas([327377])
+
+INSERTAR IMAGEN
+
+INSERTAR IMAGEN
+
+Con esto se revisa que el ticket corresponda a la factura y que la factura no está en el Administrativo
+
 ---
 #### [Indice](../Indice.md)
