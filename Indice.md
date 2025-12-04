@@ -46,7 +46,7 @@
   - [Inventario](NextFuel_Administrativo/Inventario.md)
   - [Nueva Compra de Hidrocarburos](NextFuel_Administrativo/Compra_de_Hidrocarburo.md)
   - [Relacionar una Entrada con una Compra](NextFuel_Administrativo/Relacionar_una_entrada_con_una_compra.md)
-  - Facturacion
+  - [Facturacion](NextFuel_Administrativo/Facturacion.md)
   - Corte de Turno, Cierre de Turno o Captura de Ingresos
   - Deposito a Bancos
   - Visualizar el Corte de Turno
