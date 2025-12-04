@@ -7,3 +7,6 @@ Entrar al NextFuel Administrativo
 En la consola ejecutar portalFacturacion.consultarVenta([ numero_de_ticket])
 
 (el lunes 28 carlos hizo la corrección)
+
+---
+#### [Indice](../Indice.md)
