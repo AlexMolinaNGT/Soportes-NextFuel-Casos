@@ -29,3 +29,5 @@ Si buscas resolver un problema específico, revisa el índice o navega por las c
 Este repositorio se irá actualizando de manera continua conforme se identifiquen y documenten nuevas incidencias.
 
 # [Indice](/Indice.md)
+
+# [Documentacion](/DOCUMENTACION.md)
