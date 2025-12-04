@@ -25,7 +25,7 @@
   - [Union de Entradas](NextFuel_Administrativo/Union_de_Entradas.md)
   - [Diferencias Entre Venta Total y Monto de la Estacion](NextFuel_Administrativo/Diferencias_Entre_Venta_Total_y_Monto_de_la_Estacion.md)
      - Eliminado de Entradas
-  - Entradas Desfasadas
+  - [Entradas Desfasadas](NextFuel_Administrativo/Entradas_Desfasadas.md)
   - Ajuste de Entrada
   - Correcion de Mermas
   - Cancelacion de Factura que esta en el Portal
