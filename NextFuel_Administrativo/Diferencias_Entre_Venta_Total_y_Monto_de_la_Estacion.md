@@ -29,5 +29,27 @@ Si nos arroja un resultado tendríamos que hacer un delete de la entrada extra ,
 
 INSERTAR IMAGEN
 
+## **ELIMINANDO ENTRADAS:**
+
+**Ticketpago:**
+
+INSERTAR IMAGEN
+
+```SQL
+DELETE FROM `nextfuel_cert`.`ticketpago` WHERE (`id_ticket_pago` = '28451') and (`id_ticket` = '25683') and (`id_metodo_pago` = '101') and (`id_producto` = '2') and (`id_reembolso` = '0');
+```
+
+**Ventasnexum:**
+
+INSERTAR IMAGEN
+
+```SQL
+DELETE FROM `nextfuel_cert`.`ventasnexum` WHERE (`id` = '366');
+```
+
+Una vez terminado el proceso hacemos la comprobación con la consulta de suma y nos debe de aparecer vacía la diferencia así habremos acabado el proceso.
+
+INSERTAR IMAGEN
+
 ---
 #### [Indice](../Indice.md)
