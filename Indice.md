@@ -21,7 +21,7 @@
   - [Registro de entrada](NextFuel_Operativo/Registro_de_entrada.md)
   - [División de aumento en descarga](NextFuel_Operativo/División_de_aumento_en_descarga.md)
 - NextFuel Administrativo
-  - Existencia de Compras sin Registrar
+  - [Existencia de Compras sin Registrar](NextFuel_Administrativo/Existencia_de_Compras_sin_Registrar.md)
   - Union de Entradas
   - Diferencias Entre Venta Total y Monto de la Estacion
   - Entradas Desfasadas
