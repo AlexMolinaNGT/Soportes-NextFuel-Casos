@@ -28,8 +28,8 @@
   - [Entradas Desfasadas](NextFuel_Administrativo/Entradas_Desfasadas.md)
   - [Ajuste de Entrada](NextFuel_Administrativo/Ajuste_de_Entrada.md)
   - [Correcion de Mermas](NextFuel_Administrativo/Correccion_de_mermas.md)
-  - Cancelacion de Factura que esta en el Portal
-    - Solicion: Importar la Factura Cancelada al Administrativo
+  - Cancelacion de Factura en el Portal
+    - Solucion: Importar la Factura Cancelada al Administrativo
   - Importar la Factura
   - Liberar Venta (Ticket Comprobado Fiscalmente ante el SAT)
     - Liberar Ticket
