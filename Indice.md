@@ -41,7 +41,7 @@
   - [Mermas](NextFuel_Administrativo/Mermas.md)
   - [Diferencia de Lecturas](NextFuel_Administrativo/Diferencia_de_Lecturas.md)
   - [Factura Cancelada aun aparece Vigente en Portal Palmas](NextFuel_Administrativo/Factura_Cancelada.md)
-  - Alta Proveedores
+  - [Alta Proveedores](NextFuel_Administrativo/Alta_Proveedores.md)
   - Horarios Turnos
   - Inventario
   - Nueva Compra de Hidrocarburos
