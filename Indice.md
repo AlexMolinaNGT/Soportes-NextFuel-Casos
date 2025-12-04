@@ -48,7 +48,7 @@
   - [Relacionar una Entrada con una Compra](NextFuel_Administrativo/Relacionar_una_entrada_con_una_compra.md)
   - [Facturacion](NextFuel_Administrativo/Facturacion.md)
   - [Corte de Turno, Cierre de Turno o Captura de Ingresos](NextFuel_Administrativo/Corte_de_turno_Cierre_de_turno_o_Capturar_ingresos.md)
-  - Deposito a Bancos
+  - [Deposito a Bancos](NextFuel_Administrativo/Deposito_a_bancos.md)
   - Visualizar el Corte de Turno
   - Pagos o Abonos
   - Controles Volumetricos
