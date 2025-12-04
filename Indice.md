@@ -43,7 +43,7 @@
   - [Factura Cancelada aun aparece Vigente en Portal Palmas](NextFuel_Administrativo/Factura_Cancelada.md)
   - [Alta Proveedores](NextFuel_Administrativo/Alta_Proveedores.md)
   - [Horarios Turnos](NextFuel_Administrativo/Horarios_Turnos.md)
-  - Inventario
+  - [Inventario](NextFuel_Administrativo/Inventario.md)
   - Nueva Compra de Hidrocarburos
   - Relacionar una Entrada con una Compra
   - Facturacion
