@@ -38,7 +38,7 @@
   - [Dispersar Ventas](NextFuel_Administrativo/Ventas_Perdidas.md)
     - Caso 1
     - Caso 2
-  - Mermas
+  - [Mermas](NextFuel_Administrativo/Mermas.md)
   - Diferencia de Lecturas
   - Factura Cancelada aun aparece Vigente en Portal Palmas
   - Alta Proveedores
