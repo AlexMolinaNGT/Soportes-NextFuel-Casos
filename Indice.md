@@ -33,7 +33,7 @@
   - [Importar la Factura](NextFuel_Administrativo/Importar_la_Factura.md)
   - [Liberar Venta (Ticket Comprobado Fiscalmente ante el SAT)](NextFuel_Administrativo/Liberar_Venta.md)
     - Liberar Ticket
-  - Ventas Perdidas
+  - [Ventas Perdidas](NextFuel_Administrativo/Ventas_Perdidas.md)
     - Insertar Venta
   - Dispersar Ventas
     - Caso 1
