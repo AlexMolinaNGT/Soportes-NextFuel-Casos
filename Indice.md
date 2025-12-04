@@ -23,7 +23,7 @@
 - NextFuel Administrativo
   - [Existencia de Compras sin Registrar](NextFuel_Administrativo/Existencia_de_Compras_sin_Registrar.md)
   - [Union de Entradas](NextFuel_Administrativo/Union_de_Entradas.md)
-  - Diferencias Entre Venta Total y Monto de la Estacion
+  - [Diferencias Entre Venta Total y Monto de la Estacion](NextFuel_Administrativo/Diferencias_Entre_Venta_Total_y_Monto_de_la_Estacion.md)
   - Entradas Desfasadas
   - Ajuste de Entrada
   - Correcion de Mermas
