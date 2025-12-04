@@ -1,4 +1,4 @@
 # YO SOY LA DOCUMENTACION
 
 ---
-#### [Indice](../Indice.md)
+### [Indice](/Indice.md)
