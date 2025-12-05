@@ -64,7 +64,7 @@
     - En caso de que el Campo XML sea Null
     - En caso de que el Campo XML No sea Null
 - Volumetricos
-  - Recepciones
+  - [Recepciones](Volumetricos/Recepciones.md)
   - Existencias
   - Entregas
 - Portal de Pemex
