@@ -50,7 +50,7 @@
   - [Corte de Turno, Cierre de Turno o Captura de Ingresos](NextFuel_Administrativo/Corte_de_turno_Cierre_de_turno_o_Capturar_ingresos.md)
   - [Deposito a Bancos](NextFuel_Administrativo/Deposito_a_bancos.md)
   - [Visualizar el Corte de Turno](NextFuel_Administrativo/Visualizar_el_corte_de_turno.md)
-  - Pagos o Abonos
+  - [Pagos o Abonos](NextFuel_Administrativo/Pagos_o_Abonos.md)
   - Controles Volumetricos
   - Nuevo Cliente
   - Agregar Vehiculos
