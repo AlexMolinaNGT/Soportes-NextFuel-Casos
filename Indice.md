@@ -54,7 +54,7 @@
   - [Controles Volumetricos](NextFuel_Administrativo/Controles_Volumétricos.md)
   - [Nuevo Cliente](NextFuel_Administrativo/Nuevo_Cliente.md)
   - [Agregar Vehiculos](NextFuel_Administrativo/Agregar_Vehiculos.md)
-  - Asociar la Venta
+  - [Asociar la Venta](NextFuel_Administrativo/Asociar_la_venta.md)
   - Facturar Transacciones de Credito o Debito
   - Agregar Anticipo
 - Facturas
