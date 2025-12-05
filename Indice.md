@@ -66,7 +66,7 @@
 - Volumetricos
   - [Recepciones](Volumetricos/Recepciones.md)
   - [Existencias](Volumetricos/Existencias.md)
-  - Entregas
+  - [Entregas](Volumetricos/Entregas.md)
 - Portal de Pemex
 - NextFuel Tanques
   - Acceso
