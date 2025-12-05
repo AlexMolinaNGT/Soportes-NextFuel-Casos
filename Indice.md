@@ -59,8 +59,8 @@
   - [Agregar Anticipo](NextFuel_Administrativo/Agregar_anticipo.md)
 - Facturas
   - [Factura en Espera de Cancelacion](Facturas/Factura_en_espera_de_cancelación.md)
-  - Ruta Factura / Carpeta Compartida
-  - Descarga de XML y PDF
+  - [Ruta Factura / Carpeta Compartida](Facturas/Ruta_Factura_Carpeta_Compartida.md)
+  - [Descarga de XML y PDF](Facturas/Descarga_de_XML_y_PDF.md)
     - En caso de que el Campo XML sea Null
     - En caso de que el Campo XML No sea Null
 - Volumetricos
