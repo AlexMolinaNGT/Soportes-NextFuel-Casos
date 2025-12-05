@@ -55,7 +55,7 @@
   - [Nuevo Cliente](NextFuel_Administrativo/Nuevo_Cliente.md)
   - [Agregar Vehiculos](NextFuel_Administrativo/Agregar_Vehiculos.md)
   - [Asociar la Venta](NextFuel_Administrativo/Asociar_la_venta.md)
-  - Facturar Transacciones de Credito o Debito
+  - [Facturar Transacciones de Credito o Debito](NextFuel_Administrativo/Facturar_transacciones_decredito_o_debito.md)
   - Agregar Anticipo
 - Facturas
   - Factura en Espera de Cancelacion
