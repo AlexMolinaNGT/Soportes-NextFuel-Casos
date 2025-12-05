@@ -58,7 +58,7 @@
   - [Facturar Transacciones de Credito o Debito](NextFuel_Administrativo/Facturar_transacciones_decredito_o_debito.md)
   - [Agregar Anticipo](NextFuel_Administrativo/Agregar_anticipo.md)
 - Facturas
-  - Factura en Espera de Cancelacion
+  - [Factura en Espera de Cancelacion](Facturas/Factura_en_espera_de_cancelación.md)
   - Ruta Factura / Carpeta Compartida
   - Descarga de XML y PDF
     - En caso de que el Campo XML sea Null
