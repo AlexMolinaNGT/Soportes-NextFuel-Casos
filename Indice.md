@@ -51,8 +51,8 @@
   - [Deposito a Bancos](NextFuel_Administrativo/Deposito_a_bancos.md)
   - [Visualizar el Corte de Turno](NextFuel_Administrativo/Visualizar_el_corte_de_turno.md)
   - [Pagos o Abonos](NextFuel_Administrativo/Pagos_o_Abonos.md)
-  - Controles Volumetricos
-  - Nuevo Cliente
+  - [Controles Volumetricos](NextFuel_Administrativo/Controles_Volumétricos.md)
+  - [Nuevo Cliente](NextFuel_Administrativo/Nuevo_Cliente.md)
   - Agregar Vehiculos
   - Asociar la Venta
   - Facturar Transacciones de Credito o Debito
